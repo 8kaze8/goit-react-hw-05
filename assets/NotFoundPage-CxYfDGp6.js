@@ -1,1 +1,0 @@
-import{j as o,L as e}from"./index-BAUpiS6y.js";const t=()=>o.jsxs("div",{children:[o.jsx("h1",{children:"404 - Page Not Found"}),o.jsx("p",{children:"The page you are looking for does not exist."}),o.jsx(e,{to:"/",children:"Go to Home Page"})]});export{t as default};

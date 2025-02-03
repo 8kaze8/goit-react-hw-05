@@ -1,0 +1,1 @@
+import{b as e,j as t,L as o}from"./index-BTPMeHfE.js";const c="_list_fskm4_1",a="_item_fskm4_6",m="_link_fskm4_10",i={list:c,item:a,link:m},_=({movies:l})=>{const n=e();return t.jsx("ul",{className:i.list,children:l.map(s=>t.jsx("li",{className:i.item,children:t.jsx(o,{to:`/movies/${s.id}`,state:{from:n},className:i.link,children:s.title})},s.id))})};export{_ as M};

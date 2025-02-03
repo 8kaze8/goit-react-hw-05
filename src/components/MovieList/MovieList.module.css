@@ -1,0 +1,17 @@
+.list {
+  padding-left: 20px;
+  margin: 0;
+}
+
+.item {
+  padding: 5px 0;
+}
+
+.link {
+  text-decoration: none;
+  color: #333;
+}
+
+.link:hover {
+  color: #0d6efd;
+}

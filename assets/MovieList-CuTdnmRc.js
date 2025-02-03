@@ -1,1 +1,0 @@
-import{b as n,j as t,L as e}from"./index-CB4YTSaa.js";const c="_list_1olr3_1",a="_item_1olr3_10",r="_link_1olr3_23",i={list:c,item:a,link:r},_=({movies:l})=>{const o=n();return t.jsx("ul",{className:i.list,children:l.map(s=>t.jsx("li",{className:i.item,children:t.jsx(e,{to:`/movies/${s.id}`,state:{from:o},className:i.link,children:s.title})},s.id))})};export{_ as M};
